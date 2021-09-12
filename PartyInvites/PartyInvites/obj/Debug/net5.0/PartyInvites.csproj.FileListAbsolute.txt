@@ -40,3 +40,5 @@ C:\ASP.NET_Core\PartyInvites\PartyInvites\obj\Debug\net5.0\PartyInvites.genrunti
 C:\ASP.NET_Core\PartyInvites\PartyInvites\obj\Debug\net5.0\PartyInvites.csproj.CopyComplete
 C:\ASP.NET_Core\PartyInvites\PartyInvites\obj\Debug\net5.0\Razor\Views\Home\MyView.cshtml.g.cs
 C:\ASP.NET_Core\PartyInvites\PartyInvites\obj\Debug\net5.0\Razor\Views\Home\RsvpForm.cshtml.g.cs
+C:\ASP.NET_Core\PartyInvites\PartyInvites\obj\Debug\net5.0\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\ASP.NET_Core\PartyInvites\PartyInvites\obj\Debug\net5.0\Razor\Views\Home\ListResponses.cshtml.g.cs
