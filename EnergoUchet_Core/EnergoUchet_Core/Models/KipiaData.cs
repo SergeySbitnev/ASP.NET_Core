@@ -5,8 +5,8 @@ namespace EnergoUchet_Core.Models
     {
         public int Id { get; set; }
         public DateTime Date { get; set; } //Дата
-        public int naturalGas { get; set; } //Природный газ
-        public double thermalEnergy { get; set; } //Тепловая энергия
-        public double heatCarrier { get; set; } //Теплоноситель ТЭ (пар)
+        public int NaturalGas { get; set; } //Природный газ
+        public double ThermalEnergy { get; set; } //Тепловая энергия
+        public double HeatCarrier { get; set; } //Теплоноситель ТЭ (пар)
     }
 }

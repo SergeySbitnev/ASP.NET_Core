@@ -25,6 +25,7 @@ namespace EnergoUchet_Core
         {
             services.AddTransient<IDispetcherDataRepository, FakeDispetcherDataRepository>();
             services.AddTransient<IKipiaDataRepository, FakeKipiaDataRepository>();
+            services.AddTransient<IHeatpowerDataRepository, FakeHeatpowerDataRepository>();
             services.AddControllersWithViews();
         }
 
@@ -49,7 +50,7 @@ namespace EnergoUchet_Core
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=KipiaData}/{action=List}/{id?}");
             });
         }
     }

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<KipiaData>
+
+@foreach (var p in Model)
+            {
+                <div>
+                    <h3>@p.Date.</h3>
+                    @p.NaturalGas
+                    @p.ThermalEnergy
+                    @p.HeatCarrier
+                </div>
+            }

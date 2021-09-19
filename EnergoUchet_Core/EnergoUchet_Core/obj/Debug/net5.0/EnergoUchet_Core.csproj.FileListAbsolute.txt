@@ -38,3 +38,4 @@ C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\ref\EnergoUch
 C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\EnergoUchet_Core.pdb
 C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\EnergoUchet_Core.genruntimeconfig.cache
 C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\EnergoUchet_Core.csproj.CopyComplete
+C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\Razor\Views\KipiaData\List.cshtml.g.cs

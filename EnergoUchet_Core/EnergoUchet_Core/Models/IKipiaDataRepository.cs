@@ -3,6 +3,6 @@ namespace EnergoUchet_Core.Models
 {
     public interface IKipiaDataRepository
     {
-        IQueryable<KipiaData> kipiaDatas { get; }
+        IQueryable<KipiaData> KipiaDatas { get; }
     }
 }
