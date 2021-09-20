@@ -1,0 +1,9 @@
+﻿@model IEnumerable<HeatpowerData>
+
+@foreach (var p in Model)
+{
+    <div>
+        <h3>@p.Date.</h3>
+        @p.Reagents
+    </div>
+}

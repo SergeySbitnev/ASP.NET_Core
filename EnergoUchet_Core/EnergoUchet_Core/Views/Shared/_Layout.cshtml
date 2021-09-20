@@ -5,6 +5,11 @@
     <title>EnergoUchet</title>
 </head>
 <body>
+    <ul>
+        <li>@Html.ActionLink("Данные от КИПиА", "List", "KipiaData")</li>
+        <li>@Html.ActionLink("Данные от диспетчера", "List", "DispetcherData")</li>
+        <li>@Html.ActionLink("Данные от эксплуатации", "List", "HeatpowerData")</li>
+    </ul>
     <div>
         @RenderBody()
     </div>

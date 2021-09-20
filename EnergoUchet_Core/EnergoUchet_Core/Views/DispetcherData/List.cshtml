@@ -1,0 +1,12 @@
+﻿@model IEnumerable<DispetcherData>
+
+@foreach (var p in Model)
+{
+    <div>
+        <h3>@p.Date.</h3>
+        @p.ProcessWater
+        @p.ReturnedCondensateCounter
+        @p.ReturnedCondensateT
+        @p.Electricity
+    </div>
+}

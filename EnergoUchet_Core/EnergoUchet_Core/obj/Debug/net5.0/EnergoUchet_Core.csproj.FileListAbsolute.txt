@@ -39,3 +39,5 @@ C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\EnergoUchet_C
 C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\EnergoUchet_Core.genruntimeconfig.cache
 C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\EnergoUchet_Core.csproj.CopyComplete
 C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\Razor\Views\KipiaData\List.cshtml.g.cs
+C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\Razor\Views\DispetcherData\List.cshtml.g.cs
+C:\ASP.NET_Core\EnergoUchet_Core\EnergoUchet_Core\obj\Debug\net5.0\Razor\Views\HeatpowerData\List.cshtml.g.cs
