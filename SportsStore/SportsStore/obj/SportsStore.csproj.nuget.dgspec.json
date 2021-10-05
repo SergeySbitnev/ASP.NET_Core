@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASP.NET_Core\\EnergoUchet_Core\\EnergoUchet_Core\\EnergoUchet_Core.csproj": {}
+    "C:\\ASP.NET_Core\\SportsStore\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\ASP.NET_Core\\EnergoUchet_Core\\EnergoUchet_Core\\EnergoUchet_Core.csproj": {
+    "C:\\ASP.NET_Core\\SportsStore\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET_Core\\EnergoUchet_Core\\EnergoUchet_Core\\EnergoUchet_Core.csproj",
-        "projectName": "EnergoUchet_Core",
-        "projectPath": "C:\\ASP.NET_Core\\EnergoUchet_Core\\EnergoUchet_Core\\EnergoUchet_Core.csproj",
+        "projectUniqueName": "C:\\ASP.NET_Core\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectName": "SportsStore",
+        "projectPath": "C:\\ASP.NET_Core\\SportsStore\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\TitanSSV\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET_Core\\EnergoUchet_Core\\EnergoUchet_Core\\obj\\",
+        "outputPath": "C:\\ASP.NET_Core\\SportsStore\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
